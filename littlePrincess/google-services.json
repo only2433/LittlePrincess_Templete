@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_number": "683841489493",
+    "firebase_url": "https://storybook-alittleprincess.firebaseio.com",
+    "project_id": "storybook-alittleprincess",
+    "storage_bucket": "storybook-alittleprincess.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683841489493:android:f28ba09e8f2599c2",
+        "android_client_info": {
+          "package_name": "com.littlefox.storybook.littleprincess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683841489493-ca162j2br3lprr45efocroe7foo7jfi2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLWlZC0mTgIYCyFp2J2x-CHFkZSxgZAO8"
+        },
+        {
+          "current_key": "AIzaSyCyVmd497_rHBYNdWPxUcEDZDe5UPxDVrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683841489493-ca162j2br3lprr45efocroe7foo7jfi2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
